@@ -11,3 +11,6 @@ last run detect.py to test your pic
 
 watch out!!!
 you should modify address 
+
+if you have any question, you can contact me 
+this is my email  harrywellington9588@gmail.com
